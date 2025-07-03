@@ -1,0 +1,7 @@
+- name: "configure {{ component }}"
+  become: yes
+  #hosts: localhost
+  hosts: localhost
+  connection: local
+  roles: # this will automaticall load a folder called roles in current working directory
+  - "{{ component}}"

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Roboshop-shell"
+		},
+		{
+			"path": "../shell-practice"
+		},
+		{
+			"path": "../terraform"
+		},
+		{
+			"path": "../testing"
+		}
+	]
+}
